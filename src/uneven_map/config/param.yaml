@@ -1,0 +1,16 @@
+/**:
+  ros__parameters:
+    iter_num: 2
+    map_size_x: 10.0
+    map_size_y: 10.0
+    ellipsoid_x: 0.2
+    ellipsoid_y: 0.1
+    ellipsoid_z: 0.1
+    xy_resolution: 0.05
+    yaw_resolution: 0.1
+    min_cnormal: 0.8
+    max_rho: 0.05
+    gravity: 9.81
+    mass: 1.0
+    map_pcd: /home/xyt/nav_now/src/uneven_map/maps/desert.pcd
+    map_file: /home/xyt/nav_now/src/uneven_map/maps
